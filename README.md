@@ -13,5 +13,7 @@ spacy
 # procedure
 
 pip install flask
+
 pip install spacy
+
 python app.py
