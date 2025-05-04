@@ -9,7 +9,7 @@ BACKEND -PYTHON ,FLASK
 
 DATABASE -SQlite
 
-# MODULES USED:
+# packages
 flask
 os
 spacy
