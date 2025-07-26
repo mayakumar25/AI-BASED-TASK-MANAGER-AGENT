@@ -1,4 +1,0 @@
-pip install flask
-pip install spacy
-pip install dateparser
-python -m spacy download en_core_web_sm
